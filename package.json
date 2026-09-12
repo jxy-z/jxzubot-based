@@ -1,0 +1,16 @@
+{
+  "name": "jaarr-userbot",
+  "version": "1.0.0",
+  "description": "Userbot Telegram (GramJS) - Module ESM + Plugin",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.26.16",
+    "chokidar": "^3.6.0",
+    "input": "^1.0.1",
+    "chalk": "^4.1.2"
+  }
+}
